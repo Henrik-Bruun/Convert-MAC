@@ -1,4 +1,4 @@
-﻿function Convert-MAC {
+﻿Function Convert-MAC {
 
     <#
     .SYNOPSIS
